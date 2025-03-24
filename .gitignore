@@ -1,0 +1,8 @@
+# Ignore virtual environment
+/.venv
+# Ignore kaggle api
+/kaggle.json
+# Ignore image data
+/data/seg_pred
+/data/seg_test
+/data/seg_train
