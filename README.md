@@ -7,9 +7,9 @@ This project focuses on building and evaluating image classification models usin
 ```plaintext
 IntelImageClassification/
 ├── data/                # Dataset downloaded from Kaggle
-├── src/                 # Python scripts and notebooks
-│   ├── download_data.py # Script to download and extract data
-│   └── [Other scripts]
+├── models/              # Saved models after training
+├── models/              # Project Notebooks
+├── src/                 # Python scripts
 ├── .gitignore
 ├── requirements.txt
 ├── kaggle.json          # Kaggle API credentials (not tracked by Git)
